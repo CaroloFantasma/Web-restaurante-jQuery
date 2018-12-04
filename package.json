@@ -14,5 +14,9 @@
     "restaurante"
   ],
   "author": "Carolina Lastra",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
